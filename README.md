@@ -17,7 +17,7 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 * 🗄️ I enjoy working with **databases, APIs, and backend architecture**
 * 🤝 Looking to collaborate on **.NET backend projects**
 * 🏆 **ECPC Finalist 2023**
-* 🧠 **200+ LeetCode problems**
+* 🧠 **1000+ problems**
 * 📫 Feel free to reach me through **LinkedIn**
 * 📚 I enjoy learning about **system design, operating systems, security, and software engineering**
 
@@ -63,6 +63,7 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 
 * **C#**
 * **ASP.NET Core Web API**
+* **ASP.NET Core MVC**
 * **Entity Framework Core**
 * **LINQ**
 * **SQL Server**
@@ -74,15 +75,12 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 
 * **Clean Architecture**
 * **Design Patterns**
+* **Solid Princebels**
+* **Cashing**
+* **Singnle R**
 * **Microservices**
 * **System Design**
 * **Azure**
-
-### 📊 Competitive Programming:
-
-* 🏆 **ECPC Finalist 2023**
-* 🧠 **200+ LeetCode Problems**
-* 💻 **Codeforces**
 
 ### 📫 Connect With Me:
 
