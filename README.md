@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Moaz Mohamed!
 
-<a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
-<a href='https://wa.me/201065452324'><img align='left' alt="WhatsApp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height='18px'/></a>
-
-<a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<p align="left">
+  <a href='https://www.linkedin.com/in/moaz-mohammed1/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='22px'/></a> &nbsp;
+  <a href='https://wa.me/201065452324'><img alt="WhatsApp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height='22px' color="green" /></a> &nbsp;
+  <a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='22px'/></a>
+</p>
 
 I am a **Backend .NET Developer** focused on building real-world backend applications and RESTful APIs.
 
@@ -29,37 +29,32 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" height="42px"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img align="left" alt="C#" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img align="left" alt="SQL Server" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="42px"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="42px"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="42px"/>
-</a>
-
-<a href="https://cplusplus.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
-</a>
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" height="42px"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="SQL Server" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="42px"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="42px"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="42px"/>
+  </a>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42px" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42px" />
+  </a>
+</p>
 
 <br><br>
 
@@ -88,8 +83,8 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 
 ### 📫 Connect With Me:
 
-* **LinkedIn**
-* **WhatsApp**
-* **GitHub**
-* **LeetCode**
-* **Codeforces**
+* [**LinkedIn**](https://www.linkedin.com/in/moaz-mohammed1/)
+* [**WhatsApp**](https://wa.me/201065452324)
+* [**GitHub**](https://github.com/moaz-mohammed1) *(Optional: Replace with actual URL)*
+* **LeetCode** *(Optional: Add URL here)*
+* **Codeforces** *(Optional: Add URL here)*
