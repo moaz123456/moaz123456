@@ -2,7 +2,8 @@
 
 <p align="left">
   <a href='https://www.linkedin.com/in/moaz-mohammed1/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='22px'/></a> &nbsp;
-  <a href='https://wa.me/201065452324'><img alt="WhatsApp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height='22px' color="green" /></a> &nbsp;
+  <a href='https://wa.me/201065452324'><img alt="WhatsApp" src="https://api.iconify.design/logos:whatsapp-icon.svg" height='22px' /></a> &nbsp;
+  <a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='22px'/></a>
 </p>
 
 I am a **Backend .NET Developer** focused on building real-world backend applications and RESTful APIs.
