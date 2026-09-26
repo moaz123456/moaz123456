@@ -1,6 +1,10 @@
 ## Hey 👋, I'm Moaz Mohamed!
 
-<a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a> <a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+
+<a href='https://wa.me/201065452324'><img align='left' alt="WhatsApp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height='18px'/></a>
+
+<a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 I am a **Backend .NET Developer** focused on building real-world backend applications and RESTful APIs.
 
@@ -18,7 +22,7 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 * 🤝 Looking to collaborate on **.NET backend projects**
 * 🏆 **ECPC Finalist 2023**
 * 🧠 **1000+ problems**
-* 📫 Feel free to reach me through **LinkedIn**
+* 📫 Feel free to reach me through **LinkedIn or WhatsApp**
 * 📚 I enjoy learning about **system design, operating systems, security, and software engineering**
 
 <br>
@@ -75,9 +79,9 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 
 * **Clean Architecture**
 * **Design Patterns**
-* **Solid Princebels**
-* **Cashing**
-* **Singnle R**
+* **SOLID Principles**
+* **Caching**
+* **Single Responsibility Principle**
 * **Microservices**
 * **System Design**
 * **Azure**
@@ -85,6 +89,7 @@ I mainly work with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**, 
 ### 📫 Connect With Me:
 
 * **LinkedIn**
+* **WhatsApp**
 * **GitHub**
 * **LeetCode**
 * **Codeforces**
